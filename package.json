@@ -1,0 +1,27 @@
+{
+  "name": "node-mega",
+  "version": "0.0.1",
+  "description": "Unofficial utilities module for Mega.co.nz",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "mega",
+    "storage"
+  ],
+  "author": "Jay Slevin // Anime Catgirl#5613",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somefajita/node-mega.git"
+  },
+  "bugs": {
+    "url": "https://github.com/somefajita/node-mega/issues"
+  },
+  "homepage": "https://github.com/somefajita/node-mega#readme",
+  "dependencies": {
+    "eslint": "^4.15.0",
+    "snekfetch": "^3.6.1"
+  }
+}
