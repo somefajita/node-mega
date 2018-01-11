@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/somefajita/node-mega#readme",
   "dependencies": {
-    "eslint": "^4.15.0",
     "snekfetch": "^3.6.1"
   }
 }
