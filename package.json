@@ -1,6 +1,6 @@
 {
   "name": "node-mega",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial utilities module for Mega.co.nz",
   "main": "./src/index.js",
   "scripts": {
